@@ -21,4 +21,4 @@ Cargo.lock
 #.idea/
 
 # Advent of Code input files
-input.txt
+**/input.txt
